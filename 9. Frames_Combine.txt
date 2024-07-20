@@ -1,0 +1,14 @@
+<html>
+
+<head>
+	<title>HTML Frames</title>
+</head>
+
+<frameset cols="35%,20%" rows=50%,50%">
+	<frame src="Frame 1.html">
+	<frame src="Frame 2.html">
+	<frame src="Curriculum Vitae.html">
+	<frame src="Menu of the Week.html">
+</frameset>
+
+</html>
